@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+Salut à tous et bienvenue 
+Je vous présente un de mes projets l'appliction Crypto hunter qui regroupe les informations sur les cryptomonnaies actuelles et leurs informations
+
+<table>
+  <tr>
+    <td><img src="./public/1.png"/></td>
+   <tr>
+  
+  <tr>
+    <td><img src="./public/2.png"/></td>
+   <tr>
+  
+</table>
+
+#  Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
