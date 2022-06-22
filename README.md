@@ -3,6 +3,10 @@ Je vous présente un de mes projets l'appliction Crypto hunter qui regroupe les 
 
 <table>
   <tr>
+    <td><img src="./src/CryptoHunter.gif"/></td>
+   <tr>
+     
+  <tr>
     <td><img src="./public/1.png"/></td>
    <tr>
   
